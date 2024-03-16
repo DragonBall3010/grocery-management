@@ -13,7 +13,7 @@
 	href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
 	integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
 	crossorigin="anonymous">
-<title>Document</title>
+<title>Admin Home Page</title>
 </head>
 
 <body class="bg-dark">
@@ -33,7 +33,7 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto"></ul>
 				<ul class="navbar-nav">
-					<li class="nav-item active"><a class="nav-link" href="/adminhome">Home
+					<li class="nav-item active"><a class="nav-link" href="http://localhost:8080/admin/Dashboard">Home
 							Page</a></li>
 					<li class="nav-item active"><a class="nav-link" href="/">Logout</a></li>
 
